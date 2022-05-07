@@ -433,7 +433,7 @@ int output_data()
     return 0;
 }
 
-// function which resets the data saved
+// function which resets the saved data
 int reset_data()
 {
     fp = fopen("level_list.txt", "r");
