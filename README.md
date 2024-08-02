@@ -1,2 +1,2 @@
-# Data-saver
+# data-saver
 It is a project entirely made with C language.
